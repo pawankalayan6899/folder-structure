@@ -10,7 +10,7 @@ An advanced React.js application that provides an interactive, dynamic folder st
 
 ## Git repo or clone repo
 
-
+(https://github.com/pawankalayan6899/folder-structure.git)
 
 ## Screencast
 
@@ -49,12 +49,12 @@ An advanced React.js application that provides an interactive, dynamic folder st
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/interactive-folder-structure.git
+https://github.com/pawankalayan6899/folder-structure.git
 ```
 
 2. Navigate to project directory
 ```bash
-cd interactive-folder-structure
+cd folder-structure
 ```
 
 3. Install dependencies
