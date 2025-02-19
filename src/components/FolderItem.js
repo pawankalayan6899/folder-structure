@@ -1,4 +1,4 @@
-// FolderItems.js (src/components/FolderItems.js)
+
 import React, { useState } from 'react';
 
 const FolderItem = ({ name, isFolder, onRenameNode, onDeleteNode, onCreateNode }) => {
