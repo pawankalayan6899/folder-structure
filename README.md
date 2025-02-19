@@ -4,9 +4,17 @@
 
 An advanced React.js application that provides an interactive, dynamic folder structure visualization with comprehensive CRUD (Create, Read, Update, Delete) operations and responsive design.
 
-![Project Demo](https://img.shields.io/badge/Status-Active-brightgreen)
-![React Version](https://img.shields.io/badge/React-18.2.0-blue)
-![Bootstrap Version](https://img.shields.io/badge/Bootstrap-5.3.2-purple)
+## Live Demo
+
+[View the application](https://pawankalayan6899.github.io/folder-structure/)
+
+## Git repo or clone repo
+
+
+
+## Screencast
+
+[Watch the video](https://your-screencast-video-url.com)
 
 ## 🌟 Features
 
