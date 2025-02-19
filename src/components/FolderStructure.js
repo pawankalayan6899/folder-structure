@@ -33,6 +33,7 @@ const transformStructure = (data) => {
 };
 
 const FolderStructure = () => {
+  
   // Initial folder structure
   const [folderStructure, setFolderStructure] = useState(
     transformStructure([
